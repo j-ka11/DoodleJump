@@ -1,2 +1,2 @@
 # DoodleJump
-Doodle Jump on a Microcontroller
+Implemented on the TI TM4C microcontroller
